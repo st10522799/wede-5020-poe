@@ -39,7 +39,7 @@ The goal of the espresso café website is to : •	Promote the brand as a leadin
 
 ## Sitemap
 
-![Website Sitemap](img/sitemap) <br>
+![Website Sitemap](https://github.com/st10522799/wede-5020-poe/blob/c7fbed5b9214403bbd928e740cb60ef80bcdc38a/site%20map%20structure.png) <br>
 
 ## References
 
