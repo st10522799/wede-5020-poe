@@ -41,6 +41,40 @@ The goal of the espresso café website is to : •	Promote the brand as a leadin
 
 ![Website Sitemap](https://github.com/st10522799/wede-5020-poe/blob/5fbadb0dc4f609c140a73dfe125ae8111c723193/Sitemap.png) <br>
 
-## References
+Xpresso Café. (n.d.). Contact Us. Available at: https://www.xpressocafe.co.za
+(Accessed: 20 April 2026).
 
-Ensure that all sources used in your assignment are cited and referenced using the Harvard referencing style.
+Xpresso Café. (n.d.). Image of café interior. Available at: https://www.xpressocafe.co.za
+ (Accessed: 20 April 2026).
+
+Xpresso Café. (n.d.). Image of coffee and menu items. Available at: https://www.xpressocafe.co.za
+ (Accessed: 20 April 2026).
+
+Xpresso Café. (n.d.). Image of customer seating area. Available at: https://www.xpressocafe.co.za
+ (Accessed: 20 April 2026).
+
+Xpresso Café. (n.d.). Image of the stuff. Available at: https://www.xpressocafe.co.za
+ (Accessed: 20 April 2026).
+
+Google. (n.d.). Map showing Xpresso Café Rosebank, Johannesburg. Available at: https://maps.google.com/…
+ (Accessed: 20 April 2026).
+
+Google. (n.d.). Map showing Xpresso Café Petoria, Lynwoood . Available at: https://maps.google.com/…
+ (Accessed: 20 April 2026).
+
+MDN Web Docs (n.d.) HTML, CSS, and JavaScript documentation. Available at: https://developer.mozilla.org (Accessed: 12 April 2026). 
+
+W3Schools (n.d.) Web development tutorials. Available at: https://www.w3schools.com (Accessed: 12 April 2026). 
+
+GitHub (n.d.) GitHub Pages. Available at: https://pages.github.com (Accessed: 12 April 2026).
+
+Netlify (n.d.) Netlify Documentation. Available at: https://docs.netlify.com (Accessed: 12 April 2026). 
+
+Nielsen Norman Group (n.d.) User experience principles. Available at: https://www.nngroup.com (Accessed: 12 April 2026). 
+
+Google (n.d.) Google Fonts. Available at: https://fonts.google.com (Accessed: 12 April 2026). 
+
+Font Awesome (n.d.) Font Awesome Icons. Available at: https://fontawesome.com (Accessed: 12 April 2026). 
+
+Espresso Café (n.d) Business concept and pricing model. (General research and educational sources). 
+
