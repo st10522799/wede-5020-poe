@@ -16,15 +16,15 @@ body{
 /* NAVIGATION */
 nav{
     background-color: #4b2e2e;
-    padding: 20px;
+    padding: 20rem;
     text-align: center;
 }
 
 nav a{
     color: white;
     text-decoration: none;
-    margin: 20px;
-    font-size: 18px;
+    margin: 20rem;
+    font-size: 18rem;
     font-weight: bold;
     transition: 0.3s;
 }
@@ -39,7 +39,7 @@ nav a:hover{
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    padding: 40px;
+    padding: 40rem;
     text-align: center;
 }
 
@@ -49,8 +49,8 @@ nav a:hover{
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    padding: 40px;
-    gap: 20px;
+    padding: 40rem;
+    gap: 20rem;
 }
 
 /* TEAM SECTION FLEXBOX */
@@ -59,7 +59,7 @@ nav a:hover{
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    padding: 40px;
+    padding: 40rem;
 }
 
 /* CALL TO ACTION FLEXBOX */
@@ -69,32 +69,32 @@ nav a:hover{
     justify-content: center;
     align-items: center;
     background-color: #efe3d6;
-    padding: 50px;
+    padding: 50rem;
 }
 
 /* HEADINGS */
 h1{
     text-align: center;
-    font-size: 55px;
+    font-size: 55rem;
     color: #4b2e2e;
-    margin-top: 40px;
+    margin-top: 40rem;
 }
 
 h2{
     text-align: center;
     color: #4b2e2e;
-    margin-top: 40px;
-    margin-bottom: 20px;
-    font-size: 35px;
+    margin-top: 40rem;
+    margin-bottom: 20rem;
+    font-size: 35rem;
 }
 
 /* PARAGRAPHS */
 p{
     width: 85%;
     margin: auto;
-    margin-bottom: 20px;
+    margin-bottom: 20rem;
     text-align: center;
-    font-size: 18px;
+    font-size: 18rem;
 }
 
 /* HERO IMAGE */
@@ -102,25 +102,25 @@ img{
     width: 100%;
     height: auto;
     display: block;
-    margin-top: 20px;
+    margin-top: 20rem;
 }
 
 /* HORIZONTAL LINE */
 hr{
     border: none;
-    height: 2px;
+    height: 2rem;
     background-color: #d4a373;
     width: 80%;
-    margin: 40px auto;
+    margin: 40rem auto;
 }
 
 /* CALL TO ACTION LINK */
 p a{
     background-color: #d4a373;
     color: white;
-    padding: 12px 25px;
+    padding: 12rem 25rem;
     text-decoration: none;
-    border-radius: 5px;
+    border-radius: 5rem;
     transition: 0.3s;
 }
 
@@ -133,35 +133,35 @@ footer{
     background-color: #4b2e2e;
     color: white;
     text-align: center;
-    padding: 25px;
-    margin-top: 40px;
+    padding: 25rem;
+    margin-top: 40rem;
 }
 
 /* RESPONSIVE DESIGN */
-@media(max-width:768px){
+@media(max-width:768rem){
 
     nav a{
         display: block;
-        margin: 15px 0;
+        margin: 15rem 0;
     }
 
     h1{
-        font-size: 40px;
+        font-size: 40rem;
     }
 
     h2{
-        font-size: 28px;
+        font-size: 28rem;
     }
 
     p{
         width: 92%;
-        font-size: 16px;
+        font-size: 16rem;
     }
 
     .hero-section,
     .about-section,
     .team-section,
     .cta-section{
-        padding: 20px;
+        padding: 20rem;
     }
 }
