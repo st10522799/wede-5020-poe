@@ -108,7 +108,7 @@ img{
 /* HORIZONTAL LINE */
 hr{
     border: none;
-    height: 2rem;
+    height: 2px;
     background-color: #d4a373;
     width: 80%;
     margin: 40rem auto;
@@ -120,7 +120,7 @@ p a{
     color: white;
     padding: 12rem 25rem;
     text-decoration: none;
-    border-radius: 5rem;
+    border-radius: 5px;
     transition: 0.3s;
 }
 
@@ -138,11 +138,11 @@ footer{
 }
 
 /* RESPONSIVE DESIGN */
-@media(max-width:768rem){
+@media(max-width:768px){
 
     nav a{
         display: block;
-        margin: 15rem 0;
+        margin: 15px 0;
     }
 
     h1{
