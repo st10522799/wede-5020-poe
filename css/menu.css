@@ -52,7 +52,7 @@ nav a:hover{
 /* MAIN HEADING */
 h2{
     text-align: center;
-    color: #4b2e2e;
+    color: #ff7c02;
     font-size: 2.5rem;
     margin: 2rem 0;
     font-style: italic;
@@ -81,7 +81,7 @@ td{
 
 /* MENU CATEGORY TITLES */
 h3{
-    color: #9b5a2c;
+    color: #fa6902;
     font-size: 2rem;
     margin-bottom: 1rem;
     font-style: italic;
