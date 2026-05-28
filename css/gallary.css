@@ -62,7 +62,7 @@ section{
 /* HEADINGS */
 h2{
     text-align: center;
-    color: #4b2e2e;
+    color: #ff5e00;
     font-size: 2rem;
     margin-bottom: 2rem;
     font-style: italic;
@@ -107,7 +107,7 @@ figure img{
 figcaption{
     margin-top: 1rem;
     font-weight: bold;
-    color: #6f4e37;
+    color: #4b2e2e;
 }
 
 /* REVIEWS SECTION */
