@@ -16,7 +16,7 @@ body{
 /* NAVIGATION */
 nav{
     background-color: #4b2e2e;
-    padding: 20px;
+    padding: 1.2rem;
     text-align: center;
 }
 
@@ -24,7 +24,7 @@ nav a{
     color: white;
     text-decoration: none;
     margin: 20px;
-    font-size: 18px;
+    font-size: 1.1rem;
     font-weight: bold;
     transition: 0.3s;
 }
@@ -75,7 +75,7 @@ nav a:hover{
 /* HEADINGS */
 h1{
     text-align: center;
-    font-size: 50px;
+    font-size: 3rem;
     color: #4b2e2e;
     margin-top: 40px;
 }
@@ -85,7 +85,7 @@ h2{
     color: #4b2e2e;
     margin-top: 40px;
     margin-bottom: 20px;
-    font-size: 35px;
+    font-size: 2rem;
 }
 
 /* PARAGRAPHS */
@@ -94,7 +94,7 @@ p{
     margin: auto;
     margin-bottom: 20px;
     text-align: center;
-    font-size: 18px;
+    font-size: 1rem;
 }
 
 /* HERO IMAGE */
@@ -162,6 +162,6 @@ footer{
     .about-section,
     .team-section,
     .cta-section{
-        padding: 20px;
+        padding: 3rem;
     }
 }
