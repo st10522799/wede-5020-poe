@@ -13,7 +13,7 @@ body{
     line-height: 1.7;
 }
 
-/* HEADER */
+/*Header*/
 header{
     background-color: #4b2e2e;
     padding: 2rem;
@@ -102,7 +102,7 @@ article{
     width: 100%;
     margin-top: 2rem;
     padding: 2rem;
-    background-color: #592c7ed3;
+    background-color:  #d4a373;
     border-radius: 1rem;
 
     display: flex;
@@ -124,7 +124,7 @@ article img{
     object-fit: cover;
     border-radius: 50%;
     margin-bottom: 1rem;
-    border: 5px solid #0ba1e7;
+    border: 5px solid #fcfcfc;
 }
 
 /* FOOTER */
