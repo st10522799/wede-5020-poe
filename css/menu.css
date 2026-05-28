@@ -63,7 +63,7 @@ section{
     width: 90%;
     margin: 3rem auto;
     padding: 2rem;
-    background-color: white;
+    background-color: rgb(236, 230, 227);
     border-radius: 1rem;
     box-shadow: 0 0 15px rgba(0,0,0,0.1);
 }
@@ -81,7 +81,7 @@ td{
 
 /* MENU CATEGORY TITLES */
 h3{
-    color: #6f4e37;
+    color: #9b5a2c;
     font-size: 2rem;
     margin-bottom: 1rem;
     font-style: italic;
