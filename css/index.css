@@ -33,6 +33,45 @@ nav a:hover{
     color: #d4a373;
 }
 
+/* HERO SECTION FLEXBOX */
+.hero-section{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 40px;
+    text-align: center;
+}
+
+/* ABOUT SECTION FLEXBOX */
+.about-section{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 40px;
+    gap: 20px;
+}
+
+/* TEAM SECTION FLEXBOX */
+.team-section{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 40px;
+}
+
+/* CALL TO ACTION FLEXBOX */
+.cta-section{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #efe3d6;
+    padding: 50px;
+}
+
 /* HEADINGS */
 h1{
     text-align: center;
@@ -118,7 +157,11 @@ footer{
         width: 92%;
         font-size: 16px;
     }
+
+    .hero-section,
+    .about-section,
+    .team-section,
+    .cta-section{
+        padding: 20px;
+    }
 }
-
-
-
