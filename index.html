@@ -27,7 +27,23 @@
                  whether its the comforting aroma of freshly baked bread or the delicate layers of a buttery croissant,we belive each bite 
                  should bring joy,warmth, and a little magic to your day
               </p>
-              <img src="img/welcoming picture.png" alt="Xspresso home picture" width="100%">
+              
+              <picture>
+                  <source 
+                      media="(max-width: 768px)" 
+                      srcset="img/welcoming picture-small.png">
+
+                  <source 
+                      media="(max-width: 1200px)" 
+                      srcset="img/welcoming picture-medium.png">
+
+                  <img 
+                      src="img/welcoming picture.png"
+                      alt="Xspresso home picture"
+                      style="width:100%; height:auto;">
+
+            </picture>
+
         </section>
 
         <hr> 
