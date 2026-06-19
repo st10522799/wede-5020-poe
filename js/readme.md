@@ -31,5 +31,9 @@
 * CSS3
 * JavaScript
 
-## Author
-Agnes Maredi
+## references
+Responsive web design improves usability across different devices (MDN Web Docs, 2026).
+
+HTML5 form validation helps ensure that users enter valid information (W3Schools, 2026).
+
+Google Maps was embedded to provide location information for customers (Google Maps, 2026).
