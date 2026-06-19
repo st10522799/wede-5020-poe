@@ -181,6 +181,28 @@ FOR PART TWO
 * Improved alignment consistency.
 * Improved overall professional appearance.
 
+##changelog for part 3
+## [1.2.0] - 2026-06-19
+
+### Added
+- Added SEO optimisation across all pages.
+- Added meta descriptions to Home, About, Gallery, Menu and Contact pages.
+- Added descriptive title tags to all pages.
+- Added JavaScript validation for the contact form.
+- Added success and error messages for user feedback.
+- Added README documentation with responsive design screenshots.
+
+## [1.0.1] - 2026-06-17
+
+### Fixed
+- Corrected broken navigation links.
+- Fixed image path issues.
+- Improved responsive image behaviour.
+- Corrected file naming inconsistencies.
+- Fixed README image display paths.
+- Improved spacing, alignment and typography.
+
+
 ## Semantic Versioning
 
 Format: MAJOR.MINOR.PATCH  
