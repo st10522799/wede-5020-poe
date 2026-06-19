@@ -4,15 +4,15 @@
 
 ### Desktop View
 
-![Desktop View](readme.md/img/desktop-view.png)
+![Desktop View](../img/desktop-view.png)
 
 ### Tablet View
 
-![Tablet View](readme.md/img/tablet-view.png)
+![Tablet View](../img/tablet-view.png)
 
 ### Mobile View
 
-![Mobile View](readme.md/img/mobile-view.png)
+![Mobile View](../img/mobile-view.png)
 
 ## Features
 
