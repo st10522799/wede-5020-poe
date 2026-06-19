@@ -4,15 +4,15 @@
 
 ### Desktop View
 
-![Desktop View](js/img/desktop-view.png)
+![Desktop View](readme.md/img/desktop-view.png)
 
 ### Tablet View
 
-![Tablet View](js/img/tablet-view.png)
+![Tablet View](readme.md/img/tablet-view.png)
 
 ### Mobile View
 
-![Mobile View](js/img/mobile-view.png)
+![Mobile View](readme.md/img/mobile-view.png)
 
 ## Features
 
