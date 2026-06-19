@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="Contact Xspresso Caffè, find our locations, business hours and send us a message online.">
-    <title>How to get in touch with us</title>
+    <title>Contact Xspresso Caffè | Locations, Hours and Contact Details</title>
     <link rel="stylesheet" href="css/contact.css">
 </head>
 <body>
@@ -25,8 +25,14 @@
     <section>
         <h2>Contact Information</h2>
         <p><strong>Address:</strong> The Zone Phase 2, 187 Oxford Rd, Rosebank, Johannesburg, 2196, South Africa</p>
-        <p><strong>Phone:</strong> +27 12 807 1122</p>
-        <p><strong>Email:</strong> info@Xspressocaffe.co.za</p>
+
+        <p><strong>Phone:</strong>
+        <a href="tel:+27128071122">+27 12 807 1122</a>
+        </p>
+
+        <p><strong>Email:</strong>
+             <a href="mailto:info@Xspressocaffe.co.za">info@Xspressocaffe.co.za</a>
+        </p>
         <p><strong>Business Hours:</strong> Mon - Sat: 7:00 AM – 6:00 PM | Sun: 8:00 AM – 4:00 PM</p>
     </section>
 
@@ -66,7 +72,7 @@
     <section>
         <h2>Contact Us</h2>
 
-        <form action="#" method="post">
+       <form id="contactForm" action="#" method="post">
             
             <label for="name">Full Name:</label><br>
             <input type="text" id="name" name="name" required><br><br>
@@ -95,6 +101,31 @@
     <footer>
            <p>&copy; 2026 Espresso Caffè. All rights reserved.</p>
     </footer>
+
+    <script>
+
+    document.getElementById("contactForm").addEventListener("submit", function(event){
+
+    let name = document.getElementById("name").value.trim();
+    let phone = document.getElementById("phone").value.trim();
+
+    if(name.length < 2){
+        alert("Please enter a valid full name.");
+        event.preventDefault();
+        return;
+    }
+
+    if(phone !== "" && !/^[0-9+\-\s]+$/.test(phone)){
+        alert("Phone number can only contain numbers.");
+        event.preventDefault();
+        return;
+    }
+
+    alert("Thank you! Your message has been submitted successfully.");
+
+});
+
+</script>
 
 </body>
 </html>
